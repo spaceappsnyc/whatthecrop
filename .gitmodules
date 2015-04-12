@@ -1,3 +1,6 @@
 [submodule "whatthecrop-twilio"]
 	path = whatthecrop-twilio
 	url = https://github.com/ngzhian/whatthecrop-twilio
+[submodule "whatthecropisthis"]
+	path = whatthecropisthis
+	url = https://github.com/hadios/whatthecropisthis.git
